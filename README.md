@@ -65,7 +65,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-If you want to contact me, you can reach me at <your-email@example.com>.
+If you want to contact me, you can reach me at <ankitsrivastav.work@gmail.com>.
 
 ## Acknowledgements
 
